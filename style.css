@@ -57,6 +57,13 @@ footer {
   background-color: #ddd;
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* plein écran */
+  background-color: #f9f9f9;
+}
 .bounce {
   display: inline-block;
   font-size: 2em;
