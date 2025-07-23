@@ -58,7 +58,7 @@ footer {
 }
 
 .container {
-  display: inline-table;
+  display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh; /* plein écran */
